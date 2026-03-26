@@ -61,9 +61,9 @@ Set up and updated professional profiles on GitHub, LinkedIn, and Stack Overflow
 
 | Platform | Profile Link |
 |---|---|
-| GitHub | [github.com/RachitSrivastava96](https://github.com/RachitSrivastava96) |
-| LinkedIn | *(Add your LinkedIn profile URL here)* |
-| Stack Overflow | *(Add your Stack Overflow profile URL here)* |
+| GitHub | [Github](https://github.com/RachitSrivastava96) |
+| LinkedIn | [Linkedin](https://www.linkedin.com/in/rachit-srivastava-07b3b336a) |
+| Stack Overflow | [Stack Overflow](https://stackoverflow.com/users/32012849/rachit-srivastava) |
 
 See `task-2-portfolio/` for screenshots.
 
