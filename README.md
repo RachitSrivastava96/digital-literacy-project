@@ -29,11 +29,10 @@ digital-literacy-project/
 │   └── infographic.png
 │
 ├── task-2-portfolio/
-│   └── src/
-│       ├── Github.png
-│       ├── Linkedin.png
-│       ├── StackOverflow.png
-│       └── Kaggle.png
+│   ├── Github.png
+│   ├── Linkedin.png
+│   ├── StackOverflow.png
+│   └── Kaggle.png
 │
 ├── task-3-platforms/
 │   └── (Coding challenge screenshot + Google Form screenshot)
