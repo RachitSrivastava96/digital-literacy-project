@@ -7,12 +7,12 @@
 
 | Field | Details |
 |---|---|
-| **Name** | Rachit Srivastava |
-| **Registration No.** | 25BCE11038 |
-| **Branch** | B.Tech – Computer Science Engineering |
-| **Year** | First Year (2025–26) |
-| **Course Code** | CSE0001 |
-| **Platform** | VITyarthi E-Learning Platform |
+| Name | Rachit Srivastava |
+| Registration No. | 25BCE11038 |
+| Branch | B.Tech – Computer Science Engineering |
+| Year | First Year (2025–26) |
+| Course Code | CSE0001 |
+| Platform | VITyarthi E-Learning Platform |
 
 ---
 
@@ -35,7 +35,10 @@ digital-literacy-project/
 │   └── Kaggle.png
 │
 ├── task-3-platforms/
-│   └── (Coding challenge screenshot + Google Form screenshot)
+│   ├── hackerrank.png
+│   ├── google-form.png
+│   ├── google-form-responses.png
+│   └── google-sheets.png
 │
 ├── task-4-email-etiquette/
 │   ├── emails.pdf
@@ -48,79 +51,76 @@ digital-literacy-project/
 
 ---
 
-## Module Summaries
+## Tasks
 
-### Task 1 – Digital Literacy Awareness Infographic *(Module 1)*
+### Task 1 — Digital Literacy Awareness Infographic
 
-Created a one-page visual infographic using Canva covering key digital literacy
-topics including safe internet practices, professional online presence, and
-useful digital tools for students.
+Created a one-page infographic using Canva covering safe internet practices,
+professional online presence, and useful digital tools for students.
 
 See `task-1-presentation/` for the design.
 
 ---
 
-### Task 2 – Student Digital Portfolio *(Module 2)*
+### Task 2 — Student Digital Portfolio
 
-Set up and updated professional profiles on GitHub, LinkedIn, Stack Overflow,
-and Kaggle as the foundation of my digital presence as a CSE student.
+Set up professional profiles on GitHub, LinkedIn, Stack Overflow, and Kaggle.
 
-| Platform | Profile Link |
+| Platform | Profile |
 |---|---|
 | GitHub | [RachitSrivastava96](https://github.com/RachitSrivastava96) |
 | LinkedIn | [Rachit Srivastava](https://www.linkedin.com/in/rachit-srivastava-07b3b336a) |
 | Stack Overflow | [Rachit Srivastava](https://stackoverflow.com/users/32012849/rachit-srivastava) |
 | Kaggle | [rachitsrivastava96](https://www.kaggle.com/rachitsrivastava96) |
 
-#### Profile Screenshots
+#### Screenshots
 
-**GitHub**
-![GitHub Profile](task-2-portfolio/Github.png)
+| GitHub | LinkedIn |
+|:---:|:---:|
+| ![GitHub](task-2-portfolio/Github.png) | ![LinkedIn](task-2-portfolio/Linkedin.png) |
 
-**LinkedIn**
-![LinkedIn Profile](task-2-portfolio/Linkedin.png)
-
-**Stack Overflow**
-![Stack Overflow Profile](task-2-portfolio/StackOverflow.png)
-
-**Kaggle**
-![Kaggle Profile](task-2-portfolio/Kaggle.png)
+| Stack Overflow | Kaggle |
+|:---:|:---:|
+| ![Stack Overflow](task-2-portfolio/StackOverflow.png) | ![Kaggle](task-2-portfolio/Kaggle.png) |
 
 ---
 
-### Task 3 – Coding and Collaboration Platforms *(Module 3)*
+### Task 3 — Coding and Collaboration Platforms
 
-Part A: Completed a beginner-level challenge on HackerRank to get familiar
-with competitive coding environments.
+**Part A** — Completed the Solve Me First challenge on HackerRank.
 
-Part B: Built a 5-question Digital Literacy Awareness Quiz using Google Forms,
-which can actually be used to quiz batchmates.
+**Part B** — Built a 5-question Digital Literacy Awareness Quiz on Google Forms.
 
-Google Form Link: *(Add your Google Form link here)*
+| | |
+|---|---|
+| Google Form | [Digital Literacy Awareness Quiz](https://forms.gle/kJSRkyDkJtiWUz1VA) |
 
 See `task-3-platforms/` for screenshots.
 
 ---
 
-### Task 4 – Professional Email and Etiquette Guide *(Module 4)*
+### Task 4 — Professional Email and Etiquette Guide
 
-Drafted two professional emails — one to a professor requesting a deadline
-extension, and one to an internship coordinator expressing interest in a summer
-internship. Also put together a Social Media Do's and Don'ts checklist for
-college students.
+Drafted two professional emails — one requesting a deadline extension from a
+professor, one expressing interest in a summer internship. Also created a
+Social Media Do's and Don'ts checklist for college students.
 
 See `task-4-email-etiquette/` for the drafts and checklist.
 
 ---
 
-### Task 5 – Cybercrime Awareness Case Study *(Module 5)*
+### Task 5 — Cybercrime Awareness Case Study
 
-Wrote a case study on UPI phishing and digital payment fraud in India, covering
-how it happens, who gets targeted, and what the consequences look like. Also
-created a Stay Safe Online checklist with 8+ tips relevant to college students
-in India, including two tips specifically around UPI and financial safety.
+Wrote a case study on UPI phishing and digital payment fraud in India —
+covering how attacks are structured, who gets targeted, and what the
+consequences look like. Also created a Stay Safe Online checklist with
+practical tips for college students, including two tips specific to UPI
+and financial safety.
 
-Reporting resources: [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline 1930
+| Resource | |
+|---|---|
+| National Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
+| Helpline | 1930 (24x7) |
 
 See `task-5-cybercrime/` for the case study and checklist.
 
@@ -128,13 +128,14 @@ See `task-5-cybercrime/` for the case study and checklist.
 
 ## Project Report
 
-The full written report covering all five tasks is inside the `report/` folder.
+Full written report covering all five tasks is in the `report/` folder.
 
 ---
 
 ## Author
 
-Rachit Srivastava | 25BCE11038
+Rachit Srivastava | 25BCE11038  
+B.Tech CSE, VIT Bhopal University
 
 ---
 
