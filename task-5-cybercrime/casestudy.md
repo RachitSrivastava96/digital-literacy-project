@@ -1,26 +1,45 @@
-# Case Study – Identity Theft
-
-## What is Identity Theft?
-
-Identity theft is a cybercrime where an attacker obtains someone's personal information — such as their name, date of birth, Aadhaar number, PAN card details, or bank credentials — and uses it without their knowledge to commit fraud, access accounts, or assume their identity entirely.
-
-## A Realistic Scenario
-
-Arjun, a 19-year-old first-year engineering student, received an email that appeared to be from his bank. The email informed him that his account would be suspended unless he verified his details immediately. The link in the email took him to a website that looked identical to his bank's official portal. Without suspecting anything, Arjun entered his full name, date of birth, account number, and debit card PIN.
-
-Within hours, the attacker had enough information to log into Arjun's net banking account, change the registered mobile number, and transfer his entire balance. The attacker also used Arjun's Aadhaar details — which he had previously uploaded to an unverified third-party scholarship portal — to apply for a small instant loan in his name.
-
-Arjun only discovered what had happened two days later when he received a loan repayment reminder on his email.
-
-## Who Gets Targeted?
-
-Students and young adults are frequent targets because they are new to financial services, often sign up on unverified platforms, and tend to reuse passwords across multiple accounts.
-
-## Consequences
-
-The consequences of identity theft can be severe and long-lasting. Victims may lose money directly, have their credit score damaged due to loans taken in their name, and spend months trying to legally prove they were not responsible for fraudulent transactions. In some cases, the victim's academic or professional records can also be compromised if institutional portals are accessed.
+# Task 5 – Cybercrime Awareness Case Study
+**CSE0001 – Digital Literacy | Rachit Srivastava | 25BCE11038**
 
 ---
 
-*Case Study prepared as part of CSE0001 – Digital Literacy | VIT Bhopal University*
-*Rachit Srivastava | 25BCE11038*
+## Case Study: UPI Phishing and Digital Payment Fraud in India
+
+### Type of Cybercrime: Phishing / Financial Fraud
+
+---
+
+When I started thinking about which cybercrime to write about, I didn't have
+to look very far. Almost everyone I know has either been targeted by a UPI
+scam or knows someone who has — including people in my own family. That's
+what made me want to write about this specifically.
+
+UPI fraud works by exploiting trust. The attacker doesn't hack your phone —
+they trick you into handing over access yourself. It usually starts with a
+call or message designed to create panic: "Your electricity connection will
+be disconnected," or "We've detected suspicious activity on your account."
+Once you're rattled, they either send a collect request (which looks like
+receiving money but actually sends it out), direct you to a fake bank
+website to steal your credentials, or convince you to download a remote
+access app like AnyDesk so they can watch your screen in real time.
+
+A 2022 case from Lucknow captures this well — a retired teacher lost
+₹3.8 lakh to someone impersonating her telecom provider's customer care.
+She found the number online, not realising it was a fake site. The fraudster
+walked her through "verifying her identity" via a collect request. Gone in
+under five minutes.
+
+The scary part isn't that she was careless. She was following instructions
+from someone she had every reason to trust. That's the design.
+
+The single most important thing to know: **no real bank or government body
+will ever ask for your UPI PIN or OTP over a call.** If someone does, hang
+up.
+
+If you've been defrauded, report it immediately at **cybercrime.gov.in**
+or call **1930**.
+
+---
+
+*Reporting Resource: [cybercrime.gov.in](https://cybercrime.gov.in) |
+Helpline: 1930*
