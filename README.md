@@ -64,6 +64,7 @@ Set up and updated professional profiles on GitHub, LinkedIn, and Stack Overflow
 | GitHub | [Github](https://github.com/RachitSrivastava96) |
 | LinkedIn | [Linkedin](https://www.linkedin.com/in/rachit-srivastava-07b3b336a) |
 | Stack Overflow | [Stack Overflow](https://stackoverflow.com/users/32012849/rachit-srivastava) |
+| Kaggle | [Kaggle](https://www.kaggle.com/rachitsrivastava96) |
 
 See `task-2-portfolio/` for screenshots.
 
@@ -105,11 +106,10 @@ The full written report covering all five tasks is inside the `report/` folder.
 
 ---
 
-## Links
 
-- GitHub Profile: [github.com/RachitSrivastava96](https://github.com/RachitSrivastava96)
-- Cyber Crime Portal: [cybercrime.gov.in](https://cybercrime.gov.in)
-- Cyber Crime Helpline: 1930
+## Author
+
+Rachit Srivastava
 
 ---
 
